@@ -12,3 +12,7 @@
 normally, higher precesion means lower recall   
 如果想要好瓜尽可能多的选出来，可以增加选出来的瓜的数量
 如果要选的瓜是好瓜的概率高，那就只能选最有把握的瓜
+
+### PR-Graph
+- break-event point (平衡点)
+- a point where precesion == recall
