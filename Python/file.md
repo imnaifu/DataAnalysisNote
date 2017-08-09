@@ -2,6 +2,7 @@
 ### close()
 ### read()
 ### readline()
+### write()
 ### 'with' expression
 ~~~ python
 """ no need close """
