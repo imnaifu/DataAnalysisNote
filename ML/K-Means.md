@@ -1,0 +1,3 @@
+- [K-means 1](https://zhuanlan.zhihu.com/p/20432322)
+- [K-means 2](https://zhuanlan.zhihu.com/p/20445085)
+- [English](http://bigdata-madesimple.com/possibly-the-simplest-way-to-explain-k-means-algorithm/)
